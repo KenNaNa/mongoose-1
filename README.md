@@ -1,3 +1,17 @@
+# javascript以及jquery的学习教程
+https://github.com/KenNaNa/javascript-jquery
+
+# mongoose的学习教程以及留言板小项目
+https://github.com/KenNaNa/mongoose
+
+# vue2.x.js项目  移动端音乐app
+https://github.com/KenNaNa/music_app
+
+
+# underscore.js的学习系列
+https://github.com/KenNaNa/underrscore.js-
+
+
 # Mongoose
 
 Mongoose is a [MongoDB](https://www.mongodb.org/) object modeling tool designed to work in an asynchronous environment.
